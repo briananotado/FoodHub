@@ -1,4 +1,4 @@
-| [@github.com/briananotado/FoodHub](https://github.com/briananotado/FoodHub) |
+[@github.com/briananotado/FoodHub](https://github.com/briananotado/FoodHub)
 
 ### Context
 
